@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-ready-to-strict",
+  "version": "0.0.0",
+  "description": "ESLint config of just warn at code with syntax error or different behaviors in strict mode.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/eslint-config-ready-to-strict.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "strict mode"
+  ],
+  "author": "George Chung <Gerhut@GMail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Gerhut/eslint-config-ready-to-strict/issues"
+  },
+  "homepage": "https://github.com/Gerhut/eslint-config-ready-to-strict#readme"
+}
